@@ -1,6 +1,6 @@
---Student Management Console App (C#)--
+## Student Management Console App (C#)
 
-!! Note: This application is written in Turkish for educational purposes. All user interface messages and variable names are in Turkish.
+>Note: This application is written in Turkish for educational purposes. All user interface messages and variable names are in Turkish.
 
 ## Description
 
