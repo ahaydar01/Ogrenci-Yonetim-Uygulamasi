@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ogrenci-Yonetim-Uygulamasi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
